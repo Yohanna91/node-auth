@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Cold brew",
+            "price": 39,
+            "category": "coffee"
+        },
+        {
+            "id": 2,
+            "title": "Chai Latte",
+            "price": 49,
+            "category": "tea"
+        }
+        ,{
+            "id": 3,
+            "title": "Luxe Latte",
+            "price": 69,
+            "category": "coffee"
+        },{
+            "id": 4,
+            "title": "Luxe Tea",
+            "price": 59,
+            "category": "tea"
+        },{
+            "id": 5,
+            "title": "Brew coffee",
+            "price": 59,
+            "category": "coffee"
+        }
+    ]
+}
